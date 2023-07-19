@@ -1,2 +1,2 @@
 # Second- Time
-Trying creating second file using git bas
+Trying creating second file using git bash
